@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/aadit/Documents/All%20Projects/ML%20Flow%20First%20Project/mlruns/0/c9e779196b054765ba77ce3cd70dc03f/artifacts
+end_time: 1715163035836
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c9e779196b054765ba77ce3cd70dc03f
+run_name: zealous-gull-883
+run_uuid: c9e779196b054765ba77ce3cd70dc03f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715163027689
+status: 3
+tags: []
+user_id: aadit
